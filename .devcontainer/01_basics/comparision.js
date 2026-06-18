@@ -18,7 +18,3 @@ console.log(undefined < 0);
 // === comparision ke sath sath datatype bhi check krta h
 
 console.log("2" === 2);
-
-
-
-
